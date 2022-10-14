@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI
+  m_TableCollectionNameGuidString: e6308ebb91fbbfc4b9b110232cb021ae
+  m_Entries:
+  - m_Id: 11093164032
+    m_Key: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14276640768
+    m_Key: BestResult
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18806489088
+    m_Key: 'Settings
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22027714560
+    m_Key: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 334453030912
+    m_Key: SoundOn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 337208688640
+    m_Key: SoundOff
+    m_Metadata:
+      m_Items: []
+  - m_Id: 545510408192
+    m_Key: VibrationOn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 547154575360
+    m_Key: VibrationOff
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740394549248
+    m_Key: BestTime
+    m_Metadata:
+      m_Items: []
+  - m_Id: 837203279872
+    m_Key: TapToStart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1091306799104
+    m_Key: Result
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7913755038238113792
+  references:
+    version: 2
+    RefIds:
+    - rid: 7913755038238113792
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1665663721801

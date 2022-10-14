@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: e6308ebb91fbbfc4b9b110232cb021ae, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 11093164032
+    m_Localized: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14276640768
+    m_Localized: Best Result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18806489088
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22027714560
+    m_Localized: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 334453030912
+    m_Localized: Sounds On
+    m_Metadata:
+      m_Items: []
+  - m_Id: 337208688640
+    m_Localized: Sounds Off
+    m_Metadata:
+      m_Items: []
+  - m_Id: 545510408192
+    m_Localized: Vibration On
+    m_Metadata:
+      m_Items: []
+  - m_Id: 547154575360
+    m_Localized: Vibration Off
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740394549248
+    m_Localized: Best Result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 837203279872
+    m_Localized: Tap the screen when you're ready
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1091306799104
+    m_Localized: Result
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
